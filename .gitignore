@@ -1,0 +1,9 @@
+.idea
+target
+ZPareo.iml
+*.class
+.sass-cache
+*.css
+node_modules
+src/main/webapp/resources/js/
+src/main/webapp/resources/css/
